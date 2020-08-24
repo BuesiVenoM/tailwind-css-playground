@@ -28,6 +28,8 @@ Twitter: https://twitter.com/MaOberlehner
 PayPal.me: https://paypal.me/maoberlehner  
 Patreon: https://www.patreon.com/maoberlehner
 
+Extended by Sebastian Brunner with example-code.
+
 ### License
 
 MIT
